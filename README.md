@@ -57,7 +57,7 @@ parameterized-alu-verilog/
 Upload your waveform screenshot to the `waveforms` folder and then uncomment the line below:
 
 ```markdown
-![ALU Waveform](waveforms/alu_waveform.png)
+![ALU Waveform](waveforms/parameterized_alu.jpeg)
 ```
 
 ## Author
